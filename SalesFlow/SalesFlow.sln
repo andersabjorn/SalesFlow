@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesFlow", "SalesFlow\Sale
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesFlow.Web", "SalesFlow.Web\SalesFlow.Web.csproj", "{53288043-6E96-4CD6-8E4A-FD3193419BAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesFlow.Core", "..\SalesFlow.Core\SalesFlow.Core\SalesFlow.Core.csproj", "{02D655A8-4EF9-4F61-BDA7-858534BEA199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesFlow.Infrastructure", "..\SalesFlow.Infrastructure\SalesFlow.Infrastructure\SalesFlow.Infrastructure.csproj", "{4EE0CEE7-1446-4AE0-902F-3468D013F68C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{53288043-6E96-4CD6-8E4A-FD3193419BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53288043-6E96-4CD6-8E4A-FD3193419BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53288043-6E96-4CD6-8E4A-FD3193419BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D655A8-4EF9-4F61-BDA7-858534BEA199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D655A8-4EF9-4F61-BDA7-858534BEA199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D655A8-4EF9-4F61-BDA7-858534BEA199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D655A8-4EF9-4F61-BDA7-858534BEA199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE0CEE7-1446-4AE0-902F-3468D013F68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE0CEE7-1446-4AE0-902F-3468D013F68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE0CEE7-1446-4AE0-902F-3468D013F68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE0CEE7-1446-4AE0-902F-3468D013F68C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "SalesFlow.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/SalesFlow.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalesFlow.Core.dll": {}
+        }
+      },
+      "SalesFlow.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "SalesFlow.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SalesFlow.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalesFlow.Infrastructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SalesFlow.Core/1.0.0": {
+      "type": "project",
+      "path": "../../SalesFlow.Core/SalesFlow.Core/SalesFlow.Core.csproj",
+      "msbuildProject": "../../SalesFlow.Core/SalesFlow.Core/SalesFlow.Core.csproj"
+    },
+    "SalesFlow.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../../SalesFlow.Infrastructure/SalesFlow.Infrastructure/SalesFlow.Infrastructure.csproj",
+      "msbuildProject": "../../SalesFlow.Infrastructure/SalesFlow.Infrastructure/SalesFlow.Infrastructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "SalesFlow.Infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\antep\\.nuget\\packages\\": {},
@@ -39,7 +76,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\antep\\devops-projekt\\SalesFlow\\SalesFlow.Infrastructure\\SalesFlow.Infrastructure\\SalesFlow.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\antep\\devops-projekt\\SalesFlow\\SalesFlow.Infrastructure\\SalesFlow.Infrastructure\\SalesFlow.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
