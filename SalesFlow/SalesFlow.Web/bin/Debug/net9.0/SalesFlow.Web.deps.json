@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SalesFlow.Web/1.0.0": {
+        "dependencies": {
+          "SalesFlow.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "SalesFlow.Web.dll": {}
+        }
+      },
+      "SalesFlow.Core/1.0.0": {
+        "runtime": {
+          "SalesFlow.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SalesFlow.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SalesFlow.Core": "1.0.0"
+        },
+        "runtime": {
+          "SalesFlow.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalesFlow.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SalesFlow.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SalesFlow.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
