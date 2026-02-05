@@ -1,0 +1,12 @@
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Core\SalesFlow.Core\obj\Debug\net9.0\SalesFlow.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Core\SalesFlow.Core\obj\Debug\net9.0\SalesFlow.Core.AssemblyInfoInputs.cache
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Core\SalesFlow.Core\obj\Debug\net9.0\SalesFlow.Core.AssemblyInfo.cs
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Core\SalesFlow.Core\obj\Debug\net9.0\SalesFlow.Core.csproj.CoreCompileInputs.cache
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Core\SalesFlow.Core\obj\Debug\net9.0\SalesFlow.Core.sourcelink.json
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Core\SalesFlow.Core\bin\Debug\net9.0\SalesFlow.Core.deps.json
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Core\SalesFlow.Core\bin\Debug\net9.0\SalesFlow.Core.dll
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Core\SalesFlow.Core\bin\Debug\net9.0\SalesFlow.Core.pdb
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Core\SalesFlow.Core\obj\Debug\net9.0\SalesFlow.Core.dll
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Core\SalesFlow.Core\obj\Debug\net9.0\refint\SalesFlow.Core.dll
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Core\SalesFlow.Core\obj\Debug\net9.0\SalesFlow.Core.pdb
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Core\SalesFlow.Core\obj\Debug\net9.0\ref\SalesFlow.Core.dll

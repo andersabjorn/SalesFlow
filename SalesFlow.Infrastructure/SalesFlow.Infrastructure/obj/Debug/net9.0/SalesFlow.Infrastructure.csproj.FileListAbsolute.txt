@@ -1,0 +1,16 @@
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\bin\Debug\net9.0\SalesFlow.Infrastructure.deps.json
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\bin\Debug\net9.0\SalesFlow.Infrastructure.dll
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\bin\Debug\net9.0\SalesFlow.Infrastructure.pdb
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\bin\Debug\net9.0\SalesFlow.Core.dll
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\bin\Debug\net9.0\SalesFlow.Core.pdb
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\SalesFlow.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\SalesFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\SalesFlow.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\SalesFlow.Infrastructure.AssemblyInfo.cs
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\SalesFlow.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\SalesFlow.Infrastructure.sourcelink.json
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\SalesFlo.1572276A.Up2Date
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\SalesFlow.Infrastructure.dll
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\refint\SalesFlow.Infrastructure.dll
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\SalesFlow.Infrastructure.pdb
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\ref\SalesFlow.Infrastructure.dll
