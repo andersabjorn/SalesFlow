@@ -30,4 +30,10 @@ public class LeadRepository : ILeadRepository
         await _context.SaveChangesAsync();
         return lead;
     }
+
+    public async Task UpdateAsync(Lead lead)
+    {
+        _context.Leads.Update(lead);
+        await _context.SaveChangesAsync();
+    }
 }

@@ -10,19 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9694c0ec-1144-4d89-b342-996185c57f9f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/Entities/Lead.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/Entities/Lead.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/Interfaces/ILeadRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/Interfaces/ILeadRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/LeadStatus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/LeadStatus.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/Data/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/Data/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/Repositories/LeadRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/Repositories/LeadRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SalesFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SalesFlow/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,26 +52,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.SalesFlow">
     <configuration name="SalesFlow" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -139,7 +136,8 @@
       <updated>1769930493239</updated>
       <workItem from="1769930493240" duration="9931000" />
       <workItem from="1770308908392" duration="284000" />
-      <workItem from="1770320647002" duration="1299000" />
+      <workItem from="1770320647002" duration="1611000" />
+      <workItem from="1770493857835" duration="407000" />
     </task>
     <servers />
   </component>
