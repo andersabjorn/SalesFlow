@@ -23,7 +23,7 @@ public class LeadRepository : ILeadRepository
     {
         return await _context.Leads.FindAsync(id);
     }
-
+//Add lead
     public async Task<Lead> AddAsync(Lead lead)
     {
         _context.Leads.Add(lead);
