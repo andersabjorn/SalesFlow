@@ -1,9 +1,13 @@
 using SalesFlow.Core.Interfaces;
 using SalesFlow.Infrastructure.Repositories;
+using Microsoft.EntityFrameworkCore;
+using SalesFlow.Infrastructure.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<ILeadRepository, LeadRepository>();
 var app = builder.Build();
