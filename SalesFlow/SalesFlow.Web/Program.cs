@@ -1,8 +1,11 @@
+using SalesFlow.Core.Interfaces;
+using SalesFlow.Infrastructure.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddScoped<ILeadRepository, LeadRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline. 
