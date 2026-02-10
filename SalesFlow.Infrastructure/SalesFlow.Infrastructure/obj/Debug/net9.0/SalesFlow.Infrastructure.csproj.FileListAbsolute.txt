@@ -14,3 +14,5 @@ C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infra
 C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\refint\SalesFlow.Infrastructure.dll
 C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\SalesFlow.Infrastructure.pdb
 C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\ref\SalesFlow.Infrastructure.dll
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\bin\Debug\net9.0\SalesFlow.Infrastructure.runtimeconfig.json
+C:\Users\antep\devops-projekt\SalesFlow\SalesFlow.Infrastructure\SalesFlow.Infrastructure\obj\Debug\net9.0\SalesFlow.Infrastructure.genruntimeconfig.cache

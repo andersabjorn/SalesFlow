@@ -36,4 +36,15 @@ public class LeadRepository : ILeadRepository
         _context.Leads.Update(lead);
         await _context.SaveChangesAsync();
     }
+
+    public async Task DeleteAsync(int Id)   
+    {
+        var lead = await _context.Leads.FindAsync(Id);
+        if (lead == null)
+        {
+            return;
+        }
+        _context.Leads.Remove(lead);
+        await _context.SaveChangesAsync();
+    }
 }
