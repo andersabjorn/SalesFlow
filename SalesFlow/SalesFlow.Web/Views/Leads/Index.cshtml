@@ -1,0 +1,33 @@
+@model List<SalesFlow.Web.Models.Lead>
+
+@{
+    ViewData["Title"] = "Leads";
+}
+
+<h1>Leads</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Lead</a>
+</p>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Company</th>
+        <th>Email</th>
+        <th>Phone</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var lead in Model)
+    {
+        <tr>
+            <td>@lead.Name</td>
+            <td>@lead.Company</td>
+            <td>@lead.Email</td>
+            <td>@lead.Phone</td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FP/7/egHw/s=",
+  "dgSpecHash": "ODmuRJL7q5E=",
   "success": true,
   "projectFilePath": "C:\\Users\\antep\\devops-projekt\\SalesFlow\\SalesFlow.Core\\SalesFlow.Core\\SalesFlow.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\antep\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\antep\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\antep\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
