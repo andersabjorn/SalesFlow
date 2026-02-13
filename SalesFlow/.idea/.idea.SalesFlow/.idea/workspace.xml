@@ -9,69 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9694c0ec-1144-4d89-b342-996185c57f9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SalesFlow.Web/Controllers/LeadsController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalesFlow.Web/Models/Leads.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalesFlow.Web/Views/Leads/Create.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalesFlow.Web/Views/Leads/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.GlobalUsings.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/Debug/net9.0/SalesFlow.Core.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/SalesFlow.Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/SalesFlow.Core.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Core/SalesFlow.Core/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.GlobalUsings.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/Debug/net9.0/SalesFlow.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/SalesFlow.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/SalesFlow.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SalesFlow.Infrastructure/SalesFlow.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SalesFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SalesFlow/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.GlobalUsings.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/Debug/net9.0/SalesFlow.Web.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/SalesFlow.Web.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/SalesFlow.Web.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow.Web/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow.Web/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/bin/Debug/net9.0/SalesFlow.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/bin/Debug/net9.0/SalesFlow.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/bin/Debug/net9.0/SalesFlow.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/bin/Debug/net9.0/SalesFlow.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/bin/Debug/net9.0/SalesFlow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/bin/Debug/net9.0/SalesFlow.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.GlobalUsings.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/SalesFlow.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/ref/SalesFlow.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/ref/SalesFlow.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/refint/SalesFlow.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/Debug/net9.0/refint/SalesFlow.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/SalesFlow.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/SalesFlow.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesFlow/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SalesFlow/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="9694c0ec-1144-4d89-b342-996185c57f9f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,7 +137,7 @@
       <workItem from="1770587678971" duration="219000" />
       <workItem from="1770623574239" duration="2804000" />
       <workItem from="1770733649284" duration="6671000" />
-      <workItem from="1771014886242" duration="1096000" />
+      <workItem from="1771014886242" duration="1472000" />
     </task>
     <servers />
   </component>
